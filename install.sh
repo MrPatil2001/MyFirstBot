@@ -8,7 +8,7 @@ cat <<EOL > .devcontainer/devcontainer.json
             "version": "latest"
         }
     },
-    "postStartCommand": "python3 /workspaces/MySecondBot/sahil.py",
+    "postStartCommand": "python3 /workspaces/MyFirstBot/sahil.py",
     "customizations": {
         "vscode": {
             "settings": {
